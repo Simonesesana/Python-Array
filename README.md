@@ -11,3 +11,5 @@ Function names:
       It accepts an array as argument, it returns the highest value in the array
   - low(array)
       It accepts an array as argument, it returns the lowest value in the array
+
+NOTE: All the functions before named accept only an array as an argument
