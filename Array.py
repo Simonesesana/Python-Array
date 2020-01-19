@@ -39,8 +39,3 @@ def low(arr):
         return("Error: invalid element in the array")
 
     return(l)
-
-
-e = [2, 4, 1, 312, 1, 31298, 3719, 312, -1.3, -1.31, -0.5, 312]
-h = low(e)
-print (h)
