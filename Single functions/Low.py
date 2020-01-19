@@ -1,6 +1,6 @@
 def low(arr):
 
-    l = arr[0]          #Lowest element
+    l = arr[0]          #Lowest value
     i = 0               #Counter
     t = 0               #Temp var
 
