@@ -6,7 +6,7 @@ def high(arr):
 
     
     try:
-        while (i <= (len(arr)-1)): 
+        while (i < len(arr)): 
             t = arr[i]
             i = i + 1
         
@@ -27,7 +27,7 @@ def low(arr):
     t = 0               #Temp var
 
     try:
-        while (i <= (len(arr)-1)): 
+        while (i < len(arr)): 
             t = arr[i]
             i = i + 1
         
