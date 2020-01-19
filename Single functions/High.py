@@ -1,6 +1,6 @@
 def high(arr):
 
-    h = 0               #Highest element
+    h = 0               #Highest value
     i = 0               #Counter
     t = 0               #Temp var
 
