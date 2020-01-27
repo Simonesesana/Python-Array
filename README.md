@@ -2,6 +2,7 @@ This is a library to manage arrays. It is structured as a library so you can imp
 contains the following functions:
   - Highest value in the array
   - Lowest value in the array
+  - Remove a value from an array
   - Average value in the array
   - Empty array of certain length
 
@@ -17,5 +18,7 @@ Function names:
       It returns the average value in the array
   - ema(len)
       It creates an empty array of certain length
+  - rmv(arr, x)
+      It removes an element(x) from an array
 
-NOTE: All the functions before named accept only an array as an argument, except for the "ema" function
+
