@@ -52,6 +52,7 @@ def avg(arr):
 
     except:
         return("Error: invalid element in the array")
+        
 
     return(a/i)
 
